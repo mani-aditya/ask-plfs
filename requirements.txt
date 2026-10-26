@@ -1,0 +1,7 @@
+streamlit==1.66.1
+sentence-transformers==5.7.0
+faiss-cpu==1.15.1
+rank-bm25==0.2.2
+google-genai==2.12.1
+numpy==2.1.3
+pandas==2.2.3
